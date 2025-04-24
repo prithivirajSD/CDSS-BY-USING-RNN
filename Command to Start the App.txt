@@ -1,0 +1,10 @@
+Open this project folder in 
+1. CMD (or)
+2. VS Code (or)
+3. Anaconda (Spyder) and type the following code in terminal.
+
+
+python -m streamlit run app.py
+
+To stop the app:
+Go to terminal and press "Ctrl + C"
